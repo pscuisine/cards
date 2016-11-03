@@ -1,3 +1,8 @@
+---
+layout: page
+title: Contact
+permalink: /thank-you/
+---
 <!DOCTYPE html>
 <html lang="en">
     <head>
